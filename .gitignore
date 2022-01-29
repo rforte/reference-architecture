@@ -1,0 +1,13 @@
+/.envrc
+.build-harness
+build-harness
+/repos/
+/accounts/
+/artifacts/
+.terraform
+*.tfstate
+*.tfstate.backup
+.idea
+*.iml
+*.lock.*
+.vendir-tmp
